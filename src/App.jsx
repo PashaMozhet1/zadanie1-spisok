@@ -4,8 +4,6 @@ import styles from './style.module.css';
 // import { now } from 'moment';
 // import './App.css';
 
-// console.log(promptValue);
-
 export function App() {
 	const [value, setValue] = useState('');
 	const [list, setList] = useState([]);
